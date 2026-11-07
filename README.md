@@ -1,0 +1,2 @@
+# MODEL-DEPLOYMENT-STRATEGY-AND-FINAL-DOCUMENTATION
+This repository contains the Week 6 final report on Model Deployment Strategy for the AI-Powered Urban Heat Reduction System Using IoT. It summarizes all project stages and explains simulated deployment with Python, FastAPI, Docker, CI/CD, API testing, scalability, monitoring, maintenance, risk mitigation, and future improvements with key lessons.
